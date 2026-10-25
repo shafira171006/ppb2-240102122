@@ -9,6 +9,9 @@ Pastikan Anda sudah menginstal **Flutter SDK** dan memiliki perangkat (Emulator,
 1. **Buka folder proyek di terminal:**
    ```bash
    cd path/ke/folder/proyek/ppb2_240102122
-2. **Jalankan aplikasi:**
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+3. **Jalankan aplikasi:**
    ```bash
    flutter run -d chrome
