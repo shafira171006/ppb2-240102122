@@ -1,17 +1,14 @@
-# ppb2_240102122
+# Aplikasi Profil Mahasiswa & Daftar Pengguna (Flutter)
 
-A new Flutter project.
+Aplikasi mobile berbasis Flutter yang dikembangkan untuk menampilkan halaman profil mahasiswa serta daftar pengguna dari API eksternal.
 
-## Getting Started
+## 🚀 Cara Menjalankan Aplikasi
 
-This project is a starting point for a Flutter application.
+Pastikan Anda sudah menginstal **Flutter SDK** dan memiliki perangkat (Emulator, HP Android, atau Browser Chrome) yang aktif di komputer Anda.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Buka folder proyek di terminal:**
+   ```bash
+   cd path/ke/folder/proyek/ppb2_240102122
+2. **Jalankan aplikasi:**
+   ```bash
+   flutter run -d chrome
